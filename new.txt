@@ -2,4 +2,7 @@ hii
 I am learning
 Github, its hard
 I still have to finish quizes and after class projects!
+<<<<<<< HEAD
 Adding second line from local!!
+adding second line from remote repository
+
