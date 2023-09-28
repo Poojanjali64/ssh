@@ -7,5 +7,5 @@ Adding second line from local!!
 adding second line from remote repository
 adding branch, new branch
 I am changing content!
-
+new line added
 
